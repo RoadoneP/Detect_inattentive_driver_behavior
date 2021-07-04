@@ -1,0 +1,4 @@
+names: [eye_opened, eye_closed, mouth_opened, mouth_closed, face, phone, cigar]
+nc: 7
+train: ../train2/train2.txt
+val: ../train2/val2.txt

@@ -1,0 +1,11 @@
+names:
+- eye_opened
+- eye_closed
+- mouth_opened
+- mouth_closed
+- face
+- phone
+- cigar
+nc: 7
+test: ../test/test.txt
+val: ../test/val.txt
