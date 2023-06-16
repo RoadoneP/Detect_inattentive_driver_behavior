@@ -1,10 +1,6 @@
-task03-rank03-team_SKKU_COMEDU
 ==============================
 
 ### 1. Submission File에 대한 Description
-
-최종 제출 파일인 submission.zip 파일을 아래의 경로 형태로 설정
-
 ```
 $(DATA)
 |-- Final_DATA
@@ -119,7 +115,7 @@ $ python3 preprocess.py
 ```
 
 -	`preprocess.py` : 학습 전 데이터 라벨링을 위한 전처리 코드
--	재현 서버에서 약 40분 소요
+-	서버에서 약 40분 소요
 -	라벨 저장 경로 : `/DATA/Final_DATA/task03_train/labels/*.txt`
 -	총 273,224 텍스트 파일
 
